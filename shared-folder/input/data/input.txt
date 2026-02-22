@@ -1,0 +1,3 @@
+Document1 If fighting is sure to result in victory then you must fight! Sun Tzu said that.
+Document2 Hey look buddy, I'm an engineer. That means I solve problems. Not problems like "what is beauty?"; because that would fall under the purview of philiosophy. I solve practical problems.
+Document3 Fighting an engineer and the result being victory means Sun Tzu was right about fighting resulting in victory. Sun Tzu would fall under the philiosophy of fighting.
